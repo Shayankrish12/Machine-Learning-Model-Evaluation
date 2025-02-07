@@ -1,4 +1,4 @@
-📊 Machine Learning Regression Model Comparison
+📊 Machine Learning Model Evaluation
 
 📌 Overview
 
